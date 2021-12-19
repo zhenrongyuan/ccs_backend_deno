@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"b78d45a9f6184f0da0b7f1d0d3b7f0ec","collectionName":"medios_de_pagos","type":"collection"}

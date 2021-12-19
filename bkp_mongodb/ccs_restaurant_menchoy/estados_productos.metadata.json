@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"f897f0f8784b4aa786840a8bad2554ad","collectionName":"estados_productos","type":"collection"}
