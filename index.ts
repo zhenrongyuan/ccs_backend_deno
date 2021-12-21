@@ -8,6 +8,7 @@ import personalRouter from "./routes/PersonalRouter.ts";
 import productoRouter from "./routes/ProductoRouter.ts";
 import reservaRouter from "./routes/ReservaRouter.ts";
 import usuarioRouter from "./routes/UsuarioRouter.ts";
+import cuentaRouter from "./routes/CuentaRouter.ts";
 
 import estadoComandaRouter from "./routes/EstadoComandaRouter.ts";
 import estadoCuentaRouter from "./routes/EstadoCuentaRouter.ts";
@@ -71,6 +72,9 @@ app.use(tipoProductoRouter.allowedMethods());
 
 app.use(usuarioRouter.routes());
 app.use(usuarioRouter.allowedMethods());
+
+app.use(cuentaRouter.routes());
+app.use(cuentaRouter.allowedMethods());
 
 console.log(`Servidor escuchando en el puerto: ${PORT}`);
 
