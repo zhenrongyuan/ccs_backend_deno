@@ -5,6 +5,7 @@ import { Tipo_comanda } from "./TipoComanda.ts";
 import { Personal } from './Personal.ts';
 import { Producto } from './Producto.ts';
 import { Cuenta } from './Cuenta.ts';
+import { Detalle } from './Detalle.ts';
 
 export interface Comanda {
     _id: Bson.ObjectId;
@@ -12,13 +13,7 @@ export interface Comanda {
     mesa?: Mesa;
     tipo: Tipo_comanda;
     personal: [Personal];
-    detalle: [
-        {
-        producto: Producto;
-        cantidad: Number;
-        monto_neto: Number;
-        comentario?: String;
-        }
-    ],
+    detalle: [Detalle];
     cuenta?: Cuenta;
+    comentario?: string;
 }
