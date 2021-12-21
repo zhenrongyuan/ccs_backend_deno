@@ -11,7 +11,7 @@ export interface Usuario {
             perfil: Perfil;
         }
     ],
-    password: String,
-    intento: Number,
+    password: string,
+    intento: number,
     estado: Estado_usuario
 }

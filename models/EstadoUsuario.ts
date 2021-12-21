@@ -2,6 +2,6 @@ import { Bson, MongoClient } from "https://deno.land/x/mongo@v0.28.1/mod.ts";
 
 export interface Estado_usuario {
     _id: Bson.ObjectId;
-    clave: String,
-    glosa: String
+    clave: string,
+    glosa: string
 }

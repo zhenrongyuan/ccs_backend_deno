@@ -3,10 +3,10 @@ import { Cliente } from './Cliente.ts';
 import { Estado_reserva } from './EstadoReserva.ts';
 
 export interface Reserva {
-    _id: Bson.ObjectId;
-    cliente: Cliente;
-    fecha_reserva: String;
-    estado: Estado_reserva;
-    cantidad_personas: Number;
-    comentario: String;
-  }
+  _id: Bson.ObjectId;
+  cliente: Cliente;
+  fecha_reserva: string;
+  estado: Estado_reserva;
+  cantidad_personas: number;
+  comentario: string;
+}

@@ -4,11 +4,11 @@ import { Medio_de_pago } from './MedioDePago.ts';
 
 export interface Cuenta {
     _id: Bson.ObjectId;
-    subtotal: Number,
-    descuento: Number,
-    propina: Number,
-    total: Number,
+    subtotal: number,
+    descuento: number,
+    propina: number,
+    total: number,
     medio_de_pago: Medio_de_pago,
     estado: Estado_cuenta,
-    comentario: String,
+    comentario: string,
 }

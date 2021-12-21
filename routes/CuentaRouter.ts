@@ -1,9 +1,9 @@
-'use strict'
+import { Router } from "https://deno.land/x/oak/mod.ts";
+import { getComandaCalculada } from "../controllers/CuentaController.ts";
 
-let express = require('express');
-let controller = require('../controllers/CuentaController');
+const cuentaRouter = new Router();
 
-let api = express.Router();
+cuentaRouter
+  .get("/api/cuenta/:id", getComandaCalculada);
 
-api.get('/cuenta/:id', controller.calcularCuenta);
-module.exports = api;
+export default cuentaRouter;
