@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "61b73a99ef5e137dc2ddaff9"
+  },
+  "clave": "SOL",
+  "glosa": "Solicitada"
+},{
+  "_id": {
+    "$oid": "61b73aa9ef5e137dc2ddb000"
+  },
+  "clave": "PAG",
+  "glosa": "Pagada"
+}]

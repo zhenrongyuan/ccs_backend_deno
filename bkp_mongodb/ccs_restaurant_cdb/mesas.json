@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e602"
+  },
+  "nombre": "M1",
+  "capacidad": 3,
+  "piso": 1,
+  "ubicacion": "Salón 1"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e603"
+  },
+  "nombre": "M2",
+  "capacidad": 2,
+  "piso": 1,
+  "ubicacion": "Salón 1"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e604"
+  },
+  "nombre": "M3",
+  "capacidad": 3,
+  "piso": 1,
+  "ubicacion": "Salón 1"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e605"
+  },
+  "nombre": "M4",
+  "capacidad": 3,
+  "piso": 1,
+  "ubicacion": "Salón 1"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e606"
+  },
+  "nombre": "M5",
+  "capacidad": 6,
+  "piso": 1,
+  "ubicacion": "Salón 1"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e607"
+  },
+  "nombre": "M6",
+  "capacidad": 3,
+  "piso": 1,
+  "ubicacion": "Salón 1"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e608"
+  },
+  "nombre": "M7",
+  "capacidad": 4,
+  "piso": 1,
+  "ubicacion": "Salón 1"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e609"
+  },
+  "nombre": "M8",
+  "capacidad": 4,
+  "piso": 1,
+  "ubicacion": "Salón 2"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e60a"
+  },
+  "nombre": "M9",
+  "capacidad": 4,
+  "piso": 1,
+  "ubicacion": "Salón 2"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e60b"
+  },
+  "nombre": "M10",
+  "capacidad": 3,
+  "piso": 1,
+  "ubicacion": "Salón 2"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e60c"
+  },
+  "nombre": "M11",
+  "capacidad": 4,
+  "piso": 1,
+  "ubicacion": "Salón 2"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e60d"
+  },
+  "nombre": "M12",
+  "capacidad": 5,
+  "piso": 1,
+  "ubicacion": "Salón 2"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e60e"
+  },
+  "nombre": "M13",
+  "capacidad": 4,
+  "piso": 2,
+  "ubicacion": "Salón 1"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e60f"
+  },
+  "nombre": "M14",
+  "capacidad": 4,
+  "piso": 2,
+  "ubicacion": "Salón 1"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e610"
+  },
+  "nombre": "M15",
+  "capacidad": 4,
+  "piso": 2,
+  "ubicacion": "Salón 1"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e611"
+  },
+  "nombre": "M16",
+  "capacidad": 2,
+  "piso": 2,
+  "ubicacion": "Salón 1"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e612"
+  },
+  "nombre": "M17",
+  "capacidad": 4,
+  "piso": 2,
+  "ubicacion": "Salón 2"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e613"
+  },
+  "nombre": "M18",
+  "capacidad": 4,
+  "piso": 2,
+  "ubicacion": "Salón 2"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e614"
+  },
+  "nombre": "M19",
+  "capacidad": 3,
+  "piso": 2,
+  "ubicacion": "Salón 2"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e615"
+  },
+  "nombre": "M20",
+  "capacidad": 3,
+  "piso": 2,
+  "ubicacion": "Salón 2"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e616"
+  },
+  "nombre": "T1",
+  "capacidad": 4,
+  "piso": 1,
+  "ubicacion": "Terraza"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e617"
+  },
+  "nombre": "T2",
+  "capacidad": 3,
+  "piso": 1,
+  "ubicacion": "Terraza"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e618"
+  },
+  "nombre": "T3",
+  "capacidad": 4,
+  "piso": 1,
+  "ubicacion": "Terraza"
+},{
+  "_id": {
+    "$oid": "61aeae0626e25205dd16e619"
+  },
+  "nombre": "M0",
+  "capacidad": 0,
+  "piso": 1,
+  "ubicacion": "Caja"
+}]

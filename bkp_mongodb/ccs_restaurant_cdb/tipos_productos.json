@@ -1,0 +1,183 @@
+[{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e623"
+  },
+  "clave": "ENTRADAS",
+  "glosa": "Entradas"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e624"
+  },
+  "clave": "ARROZ",
+  "glosa": "Arroz"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e625"
+  },
+  "clave": "SOPAS",
+  "glosa": "Sopas"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e626"
+  },
+  "clave": "TALLARINES",
+  "glosa": "Tallarines"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e627"
+  },
+  "clave": "CARNES",
+  "glosa": "Carnes"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e628"
+  },
+  "clave": "POLLOS",
+  "glosa": "Pollos"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e629"
+  },
+  "clave": "CERDOS",
+  "glosa": "Cerdos"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e62a"
+  },
+  "clave": "TOFUS",
+  "glosa": "Tofus"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e62c"
+  },
+  "clave": "PESCADOS",
+  "glosa": "Pescados"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e62e"
+  },
+  "clave": "BEBIDAS",
+  "glosa": "Bebidas"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e62f"
+  },
+  "clave": "APERITIVOS",
+  "glosa": "Aperitivos"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e630"
+  },
+  "clave": "VINOS",
+  "glosa": "Vinos"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e631"
+  },
+  "clave": "CERVEZAS",
+  "glosa": "Cervezas"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e634"
+  },
+  "clave": "BBC",
+  "glosa": "Bebestibles calientes"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e637"
+  },
+  "clave": "COLAC",
+  "glosa": "Colacion"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e638"
+  },
+  "clave": "MENU",
+  "glosa": "Menus"
+},{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e639"
+  },
+  "clave": "VEGGIE",
+  "glosa": "Vegetariano"
+},{
+  "_id": {
+    "$oid": "64513396ab9f2fc7e0e6767f"
+  },
+  "nombre": "Sopa Hanoi",
+  "descripcion": "Pollo, algas, ají rojo, vinagre y huevo.",
+  "precio": 5200,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513396ab9f2fc7e0e67680"
+  },
+  "nombre": "Sopa Camarón",
+  "descripcion": "Camarones, cebolla, champiñones, algas y curry.",
+  "precio": 5000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513396ab9f2fc7e0e67681"
+  },
+  "nombre": "Sopa Pho con camarón",
+  "descripcion": "Tallarines PHO, diente de dragón, camarones y ají.",
+  "precio": 5000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513396ab9f2fc7e0e67682"
+  },
+  "nombre": "Sopa Pho con Carne o Pollo",
+  "descripcion": "Tallarines PHO, diente de dragón, carne o pollo y ají.",
+  "precio": 4800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513396ab9f2fc7e0e67683"
+  },
+  "nombre": "Sopa PHO con Carne o Pollo (Familiar)",
+  "descripcion": "Tallarines PHO, diente de dragón, carne o pollo y ají.",
+  "precio": 14000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+}]

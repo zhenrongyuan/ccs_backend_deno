@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "61aea206ef5e137dc2dc56c2"
+  },
+  "clave": "DLD",
+  "glosa": "Disponible local y delivery"
+},{
+  "_id": {
+    "$oid": "61aea22cef5e137dc2dc56cf"
+  },
+  "clave": "DSD",
+  "glosa": "Disponible solo en delivery"
+},{
+  "_id": {
+    "$oid": "61aea23def5e137dc2dc56d8"
+  },
+  "clave": "DSL",
+  "glosa": "Disponible solo en local"
+},{
+  "_id": {
+    "$oid": "61aea256ef5e137dc2dc56e1"
+  },
+  "clave": "ND",
+  "glosa": "No Disponible"
+}]

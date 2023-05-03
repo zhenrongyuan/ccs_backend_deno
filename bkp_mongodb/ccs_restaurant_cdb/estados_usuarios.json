@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "61aea2cdef5e137dc2dc5715"
+  },
+  "clave": "ACTIVO",
+  "glosa": "Activo"
+},{
+  "_id": {
+    "$oid": "61aea2e5ef5e137dc2dc571e"
+  },
+  "clave": "BLOQUEADO",
+  "glosa": "Bloqueado"
+},{
+  "_id": {
+    "$oid": "61aea2f4ef5e137dc2dc5725"
+  },
+  "clave": "DESACTIVADO",
+  "glosa": "Desactivado"
+}]

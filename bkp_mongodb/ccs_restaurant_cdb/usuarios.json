@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "61aeb87c26e25205dd16e63a"
+  },
+  "personal": {
+    "rut": "12345678-5",
+    "nombre": "Alejandro López",
+    "direccion": "Av. Las Independencias 123",
+    "celular": "12345678",
+    "fecha_ingreso": "01-01-2021"
+  },
+  "perfiles": [
+    {
+      "clave": "ADM",
+      "glosa": "Administrador"
+    },
+    {
+      "clave": "CAJ",
+      "glosa": "Cajero"
+    }
+  ],
+  "password": "BJHDNMDFJH4JKDFU8",
+  "intento": 0,
+  "estado": {
+    "clave": "ACTIVO",
+    "glosa": "Activo"
+  }
+},{
+  "_id": {
+    "$oid": "61b72c78a02369af306ec14a"
+  },
+  "personal": {
+    "rut": "32434243-5",
+    "nombre": "Alejandro 222",
+    "direccion": "Av. Las Independencias 123",
+    "celular": "12345678",
+    "fecha_ingreso": "01-01-2021"
+  },
+  "estado": {
+    "clave": "ACTIVO",
+    "glosa": "Activo"
+  },
+  "perfiles": [
+    {
+      "clave": "ADM",
+      "glosa": "Administrador",
+      "_id": {
+        "$oid": "61b72c78a02369af306ec14b"
+      }
+    },
+    {
+      "clave": "CAJ",
+      "glosa": "Cajero",
+      "_id": {
+        "$oid": "61b72c78a02369af306ec14c"
+      }
+    },
+    {
+      "clave": "COC",
+      "glosa": "Cocinero",
+      "_id": {
+        "$oid": "61b72c78a02369af306ec14d"
+      }
+    }
+  ],
+  "password": "BJHDNMDFJH4342DFU8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b72d260d9f8904f75045fb"
+  },
+  "personal": {
+    "rut": "32434243-5",
+    "nombre": "Alejandro 222",
+    "direccion": "Av. Las Independencias 123",
+    "celular": "12345678",
+    "fecha_ingreso": "01-01-2021"
+  },
+  "estado": {
+    "clave": "ACTIVO",
+    "glosa": "Activo"
+  },
+  "perfiles": [
+    {
+      "clave": "ADM",
+      "glosa": "Administrador",
+      "_id": {
+        "$oid": "61b72d260d9f8904f75045fc"
+      }
+    },
+    {
+      "clave": "CAJ",
+      "glosa": "Cajero",
+      "_id": {
+        "$oid": "61b72d260d9f8904f75045fd"
+      }
+    },
+    {
+      "clave": "COC",
+      "glosa": "Cocinero",
+      "_id": {
+        "$oid": "61b72d260d9f8904f75045fe"
+      }
+    }
+  ],
+  "password": "BJHDNMDFJH4342DFU8",
+  "intento": 0,
+  "__v": 0
+}]

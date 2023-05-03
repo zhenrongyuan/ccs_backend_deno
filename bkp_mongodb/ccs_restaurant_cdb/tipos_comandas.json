@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "61aeb3ac26e25205dd16e620"
+  },
+  "clave": "RETIRO",
+  "glosa": "Retiro en local"
+},{
+  "_id": {
+    "$oid": "61aeb3ac26e25205dd16e621"
+  },
+  "clave": "LOCAL",
+  "glosa": "En local, mesa"
+},{
+  "_id": {
+    "$oid": "61aeb3ac26e25205dd16e622"
+  },
+  "clave": "DELIVERY",
+  "glosa": "Delivery"
+}]

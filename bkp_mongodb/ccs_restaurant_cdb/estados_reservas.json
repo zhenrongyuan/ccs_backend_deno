@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "61aea27bef5e137dc2dc56ee"
+  },
+  "clave": "SOLICITADA",
+  "glosa": "Solicitada"
+},{
+  "_id": {
+    "$oid": "61aea28def5e137dc2dc56fc"
+  },
+  "clave": "CONFIRMADA",
+  "glosa": "Confirmada"
+},{
+  "_id": {
+    "$oid": "61aea29def5e137dc2dc5702"
+  },
+  "clave": "ANULADA",
+  "glosa": "Anulada"
+},{
+  "_id": {
+    "$oid": "61aea2b0ef5e137dc2dc5708"
+  },
+  "clave": "CONCRETADA",
+  "glosa": "Concretada"
+}]

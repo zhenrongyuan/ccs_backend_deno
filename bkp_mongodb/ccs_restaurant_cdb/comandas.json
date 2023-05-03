@@ -1,0 +1,258 @@
+[{
+  "_id": {
+    "$oid": "61b758c5a3d75e1ecf53e77a"
+  },
+  "cliente": {
+    "nombre": "Nicolás González",
+    "correo": "nicolas.gonzalez@asd.cl",
+    "direccion": "Av. Manuel Montt 362225",
+    "celular": "123456789"
+  },
+  "mesa": {
+    "nombre": "M4",
+    "capacidad": 3,
+    "piso": 1,
+    "ubicacion": "Salón 1"
+  },
+  "tipo": {
+    "clave": "DELIVERY",
+    "glosa": "delivery"
+  },
+  "cuenta": {
+    "subtotal": 7600,
+    "total": 7600,
+    "medio_de_pago": {
+      "clave": "EFEC",
+      "glosa": "Efectivo"
+    },
+    "comentario": "....",
+    "estado": {
+      "clave": "SOL",
+      "glosa": "Solicitada"
+    }
+  },
+  "personal": [
+    {
+      "rut": "12345678-5",
+      "nombre": "Alejandro López",
+      "direccion": "Av. Las Independencias 123",
+      "celular": "12345678",
+      "fecha_ingreso": "01-01-2021",
+      "_id": {
+        "$oid": "61b758c5a3d75e1ecf53e77b"
+      }
+    }
+  ],
+  "detalle": [
+    {
+      "producto": {
+        "nombre": "Wantan",
+        "descripcion": "8 unidades.",
+        "precio": 1900,
+        "popularidad": 4,
+        "tipo": {
+          "clave": "ENTRADA",
+          "glosa": "Entrada"
+        }
+      },
+      "cantidad": 2,
+      "monto_neto": 3800,
+      "comentario": "sin carne",
+      "_id": {
+        "$oid": "61b758c5a3d75e1ecf53e77c"
+      }
+    },
+    {
+      "producto": {
+        "nombre": "Hoja de camarón",
+        "descripcion": "10 unidades.",
+        "precio": 1900,
+        "tipo": {
+          "clave": "ENTRADA",
+          "glosa": "Entrada"
+        }
+      },
+      "cantidad": 2,
+      "monto_neto": 3800,
+      "comentario": "poco aceite",
+      "_id": {
+        "$oid": "61b758c5a3d75e1ecf53e77d"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b7594ed9d7b693f59cbd4d"
+  },
+  "cliente": {
+    "nombre": "Nicolás González2",
+    "correo": "nicolas.gonzalez@asd.cl",
+    "direccion": "Av. Manuel Montt 362225",
+    "celular": "123456789"
+  },
+  "mesa": {
+    "nombre": "M4",
+    "capacidad": 3,
+    "piso": 1,
+    "ubicacion": "Salón 1"
+  },
+  "tipo": {
+    "clave": "DELIVERY",
+    "glosa": "delivery"
+  },
+  "cuenta": {
+    "subtotal": 7600,
+    "total": 7600,
+    "medio_de_pago": {
+      "clave": "EFEC",
+      "glosa": "Efectivo"
+    },
+    "comentario": "....",
+    "estado": {
+      "clave": "SOL",
+      "glosa": "Solicitada"
+    }
+  },
+  "estado": {
+    "clave": "LISTO",
+    "glosa": "Listo"
+  },
+  "personal": [
+    {
+      "rut": "12345678-5",
+      "nombre": "Alejandro López",
+      "direccion": "Av. Las Independencias 123",
+      "celular": "12345678",
+      "fecha_ingreso": "01-01-2021",
+      "_id": {
+        "$oid": "61b7594ed9d7b693f59cbd4e"
+      }
+    }
+  ],
+  "detalle": [
+    {
+      "producto": {
+        "nombre": "Wantan2",
+        "descripcion": "8 unidades.",
+        "precio": 1900,
+        "popularidad": 4,
+        "tipo": {
+          "clave": "ENTRADA",
+          "glosa": "Entrada"
+        }
+      },
+      "cantidad": 2,
+      "monto_neto": 3800,
+      "comentario": "sin carne",
+      "_id": {
+        "$oid": "61b7594ed9d7b693f59cbd4f"
+      }
+    },
+    {
+      "producto": {
+        "nombre": "Hoja de camarón",
+        "descripcion": "10 unidades.",
+        "precio": 1900,
+        "tipo": {
+          "clave": "ENTRADA",
+          "glosa": "Entrada"
+        }
+      },
+      "cantidad": 2,
+      "monto_neto": 3800,
+      "comentario": "poco aceite",
+      "_id": {
+        "$oid": "61b7594ed9d7b693f59cbd50"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf43daae5b7f98ea6a977a"
+  },
+  "cliente": {
+    "nombre": "Nicolás González2",
+    "correo": "nicolas.gonzalez@asd.cl",
+    "direccion": "Av. Manuel Montt 362225",
+    "celular": "123456789"
+  },
+  "mesa": {
+    "nombre": "M4",
+    "capacidad": 3,
+    "piso": 1,
+    "ubicacion": "Salón 1"
+  },
+  "tipo": {
+    "clave": "DELIVERY",
+    "glosa": "delivery"
+  },
+  "personal": [
+    {
+      "rut": "12345678-5",
+      "nombre": "Alejandro López",
+      "direccion": "Av. Las Independencias 123",
+      "celular": "12345678",
+      "fecha_ingreso": "01-01-2021"
+    }
+  ],
+  "detalle": [
+    {
+      "producto": {
+        "_id": "61b6ab23fc1860a1d7175d22",
+        "nombre": "Wantan2",
+        "descripcion": "8 unidades.",
+        "precio": 1900,
+        "popularidad": 4,
+        "tipo": {
+          "clave": "ENTRADA",
+          "glosa": "Entrada"
+        },
+        "estado": {
+          "clave": "DLD",
+          "glosa": "Disponible local y delivery"
+        }
+      },
+      "cantidad": 2,
+      "monto_neto": 3800,
+      "comentario": "sin carne"
+    },
+    {
+      "producto": {
+        "_id": "61b6ab23fc1860a1d7175d23",
+        "nombre": "Hoja de camarón",
+        "descripcion": "10 unidades.",
+        "precio": 1900,
+        "tipo": {
+          "clave": "ENTRADA",
+          "glosa": "Entrada"
+        },
+        "estado": {
+          "clave": "DLD",
+          "glosa": "Disponible local y delivery"
+        }
+      },
+      "cantidad": 2,
+      "monto_neto": 3800,
+      "comentario": "poco aceite"
+    }
+  ],
+  "cuenta": {
+    "subtotal": 7600,
+    "total": 7600,
+    "medio_de_pago": {
+      "clave": "EFEC",
+      "glosa": "Efectivo"
+    },
+    "comentario": "....",
+    "estado": {
+      "clave": "SOL",
+      "glosa": "Solicitada"
+    }
+  },
+  "estado": {
+    "clave": "LISTO",
+    "glosa": "Listo"
+  }
+}]

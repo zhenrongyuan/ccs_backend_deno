@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "61aeb24626e25205dd16e61f"
+  },
+  "rut": "12345678-5",
+  "nombre": "Alejandro López",
+  "direccion": "Av. Las Independencias 123",
+  "celular": "12345678",
+  "fecha_ingreso": "01-01-2021"
+}]

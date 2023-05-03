@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "61aeb12326e25205dd16e61a"
+  },
+  "clave": "ADM",
+  "glosa": "Administrador(a)"
+},{
+  "_id": {
+    "$oid": "61aeb12326e25205dd16e61b"
+  },
+  "clave": "CAJ",
+  "glosa": "Cajero(a)"
+},{
+  "_id": {
+    "$oid": "61aeb12326e25205dd16e61c"
+  },
+  "clave": "GARZ",
+  "glosa": "Garzón(a)"
+},{
+  "_id": {
+    "$oid": "61aeb12326e25205dd16e61d"
+  },
+  "clave": "COC",
+  "glosa": "Cocinero(a)"
+},{
+  "_id": {
+    "$oid": "61aeb12326e25205dd16e61e"
+  },
+  "clave": "COP",
+  "glosa": "Copero(a)"
+}]

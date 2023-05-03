@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "61aea317ef5e137dc2dc5732"
+  },
+  "clave": "EFEC",
+  "glosa": "Efectivo"
+},{
+  "_id": {
+    "$oid": "61aea333ef5e137dc2dc573d"
+  },
+  "clave": "TBANC",
+  "glosa": "Tarjeta bancaria"
+},{
+  "_id": {
+    "$oid": "61aea350ef5e137dc2dc5746"
+  },
+  "clave": "TRANSBANCARIA",
+  "glosa": "Transferencia bancaria"
+}]

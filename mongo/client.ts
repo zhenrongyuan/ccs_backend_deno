@@ -11,4 +11,5 @@ try {
   console.log(err);
 }
 
-export const db = mongoClient.database("ccs_restaurant_menchoy");
+// export const db = mongoClient.database("ccs_restaurant_menchoy");
+export const db = mongoClient.database("ccs_restaurant_cdb");

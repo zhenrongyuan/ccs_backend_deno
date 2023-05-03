@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "61aea164ef5e137dc2dc5677"
+  },
+  "clave": "COMPLETA",
+  "glosa": "Comanda completa"
+},{
+  "_id": {
+    "$oid": "61aea175ef5e137dc2dc567e"
+  },
+  "clave": "SOLICITADA",
+  "glosa": "Comanda solicitada"
+},{
+  "_id": {
+    "$oid": "61aea187ef5e137dc2dc5687"
+  },
+  "clave": "FINALIZADA",
+  "glosa": "Comanda finalizada"
+},{
+  "_id": {
+    "$oid": "61aea193ef5e137dc2dc568e"
+  },
+  "clave": "PORREPARTIR",
+  "glosa": "Comanda por repartir"
+},{
+  "_id": {
+    "$oid": "61aea19eef5e137dc2dc5693"
+  },
+  "clave": "REPARTIENDO",
+  "glosa": "Comanda en reparto"
+}]

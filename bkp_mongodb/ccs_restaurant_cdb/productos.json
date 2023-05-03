@@ -1,0 +1,1617 @@
+[{
+  "_id": {
+    "$oid": "64512c04ab9f2fc7e0e6766a"
+  },
+  "nombre": "NEM",
+  "descripcion": "Roll vietnamita frito, repollo, carne, zanahoria, tallarines de arroz, champiñones, algas. Con un toque de pimienta y curry. Acompañado de hojitas de menta. 4 unidades la porción.",
+  "precio": 3800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64512ed4ab9f2fc7e0e6766f"
+  },
+  "nombre": "NEM Vegetariano",
+  "descripcion": "Roll vietnamita frito, repollo, zanahoria, tallarines de arroz, champiñones, algas. Con un toque de pimienta y curry. Acompañado de hojitas de menta. 4 unidades la porción.",
+  "precio": 3800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64512ed4ab9f2fc7e0e67670"
+  },
+  "nombre": "Jiao Zi",
+  "descripcion": "8 unidades. Gyozas al vapor.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513050ab9f2fc7e0e67673"
+  },
+  "nombre": "Siu Mai",
+  "descripcion": "8 unidades. Albóndigas de carne al vapor.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513050ab9f2fc7e0e67674"
+  },
+  "nombre": "Empanadas de Camarón",
+  "descripcion": "4 Unidades la porción.",
+  "precio": 5000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513050ab9f2fc7e0e67675"
+  },
+  "nombre": "Empanadas de Pollo al Curry",
+  "descripcion": "4 unidades la porción.",
+  "precio": 4700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513050ab9f2fc7e0e67676"
+  },
+  "nombre": "Empanadas de Tofu",
+  "descripcion": "4 unidades la porción.",
+  "precio": 4700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451318bab9f2fc7e0e6767a"
+  },
+  "nombre": "Arroz Blanco",
+  "descripcion": "",
+  "precio": 1800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "ARROZ",
+    "glosa": "Arroz"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451318bab9f2fc7e0e6767b"
+  },
+  "nombre": "Arroz Chaufán",
+  "descripcion": "Arroz salteado con cebollín, huevo y zanahorias.",
+  "precio": 1800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "ARROZ",
+    "glosa": "Arroz"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451318bab9f2fc7e0e6767c"
+  },
+  "nombre": "Arroz con Coco y Camarones",
+  "descripcion": "Arroz preparado con leche de coco, camarones, cebollín, huevo y zanahorias.",
+  "precio": 3800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "ARROZ",
+    "glosa": "Arroz"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "645136f3ab9f2fc7e0e67688"
+  },
+  "nombre": "Pho con camarón y verduras",
+  "descripcion": "Tallarines de arroz PHO, salteado con camarones y verduras de la estación.",
+  "precio": 8000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TALLARINES",
+    "glosa": "Tallarines"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "645136f3ab9f2fc7e0e67689"
+  },
+  "nombre": "Pho con carne y verduras",
+  "descripcion": "Tallarines de arroz PHO, salteado con carne y verduras de la estación.",
+  "precio": 7800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TALLARINES",
+    "glosa": "Tallarines"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "645136f3ab9f2fc7e0e6768a"
+  },
+  "nombre": "Pho con pollo y verduras",
+  "descripcion": "Tallarines de arroz PHO, salteado con pollo y verduras de la estación.",
+  "precio": 7800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TALLARINES",
+    "glosa": "Tallarines"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "645136f3ab9f2fc7e0e6768b"
+  },
+  "nombre": "Michyn con camarón y verduras",
+  "descripcion": "Tallarines de arroz michyn, salteado con camarones y verduras de la estación.",
+  "precio": 8000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TALLARINES",
+    "glosa": "Tallarines"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "645136f3ab9f2fc7e0e6768c"
+  },
+  "nombre": "Michyn con carne y verduras",
+  "descripcion": "Tallarines de arroz michyn, salteado con carne y verduras de la estación.",
+  "precio": 7800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TALLARINES",
+    "glosa": "Tallarines"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "645136f3ab9f2fc7e0e6768d"
+  },
+  "nombre": "Michyn con pollo y verduras",
+  "descripcion": "Tallarines de arroz michyn, salteado con pollo y verduras de la estación.",
+  "precio": 7800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TALLARINES",
+    "glosa": "Tallarines"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "645136f3ab9f2fc7e0e6768e"
+  },
+  "nombre": "Chaumín carne al curry",
+  "descripcion": "Chaumín, carne, cebollín, curry y verduras de la estación.",
+  "precio": 7800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TALLARINES",
+    "glosa": "Tallarines"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "645136f3ab9f2fc7e0e6768f"
+  },
+  "nombre": "Chaumín con camarón y verduras",
+  "descripcion": "Chaumín, camarones y verduras de la estación.",
+  "precio": 8000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TALLARINES",
+    "glosa": "Tallarines"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "645136f3ab9f2fc7e0e67690"
+  },
+  "nombre": "Chaumín con carne y verduras",
+  "descripcion": "Chaumín, carne y verduras de la estación.",
+  "precio": 7800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TALLARINES",
+    "glosa": "Tallarines"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "645136f3ab9f2fc7e0e67691"
+  },
+  "nombre": "Chaumín con pollo y verduras",
+  "descripcion": "Chaumín, pollo y verduras de la estación.",
+  "precio": 7800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TALLARINES",
+    "glosa": "Tallarines"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513898ab9f2fc7e0e67693"
+  },
+  "nombre": "Carne al arroz con curry",
+  "descripcion": "Carne salteada con curry y arroz (sin picante)",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513898ab9f2fc7e0e67694"
+  },
+  "nombre": "Carne a la pimienta negra y cebolla",
+  "descripcion": "Carne preparada con cebolla y un toque de pimienta negra.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513898ab9f2fc7e0e67695"
+  },
+  "nombre": "Carne cinco colores",
+  "descripcion": "Carne salteada con salsa de ostra, acompañado de champiñones, algas, zanahorias, pimentón y cebolla.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513898ab9f2fc7e0e67696"
+  },
+  "nombre": "Carne con verdura vietnamita",
+  "descripcion": "Carne salteada con salsa de ostra, acompañado de la verdura pak-choi.",
+  "precio": 7900,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513898ab9f2fc7e0e67697"
+  },
+  "nombre": "Carne picante ácida con coco",
+  "descripcion": "Carne preparada con ají rojo, leche de coco y un toque de vinagre.",
+  "precio": 8200,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513898ab9f2fc7e0e67698"
+  },
+  "nombre": "Carne a la pimienta negra",
+  "descripcion": "Carne salteada con pimienta negra.",
+  "precio": 8000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513898ab9f2fc7e0e67699"
+  },
+  "nombre": "Carne con coco y curry",
+  "descripcion": "Carne preparada con pimentón, zanahorias y cebolla al curry, con coco rallado encima.",
+  "precio": 8000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513898ab9f2fc7e0e6769a"
+  },
+  "nombre": "Filete cinco colores",
+  "descripcion": "Trozos de filete salteado con salsa de ostras, acompañado de champiñones, algas, zanahorias, pimentón y cebolla.",
+  "precio": 9300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513898ab9f2fc7e0e6769b"
+  },
+  "nombre": "Filete a la pimienta negra ",
+  "descripcion": "Filete salteado con pimienta negra.",
+  "precio": 11500,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513898ab9f2fc7e0e6769c"
+  },
+  "nombre": "Filete picante ácido y coco",
+  "descripcion": "Trozo de filete preparado con ají rojo, leche de coco y un toque de vinagre.",
+  "precio": 11500,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513898ab9f2fc7e0e6769d"
+  },
+  "nombre": "Filete con coco y curry",
+  "descripcion": "Trozos de filete preparado con pimentón, zanahorias y cebolla al curry, con coco rallado encima.",
+  "precio": 11500,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513956ab9f2fc7e0e6769f"
+  },
+  "nombre": "Cerdo cinco colores",
+  "descripcion": "Cerdo salteado con salsa de ostra, acompañado de champiñones, algas, zanahorias, pimentón y cebolla.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERDOS",
+    "glosa": "Cerdos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513956ab9f2fc7e0e676a0"
+  },
+  "nombre": "Cerdo con verdura vietnamita",
+  "descripcion": "Cerdo salteado con salsa de ostra, acompañado de la verdura pak-choi.",
+  "precio": 7900,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERDOS",
+    "glosa": "Cerdos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513956ab9f2fc7e0e676a1"
+  },
+  "nombre": "Cerdo con coco y curry",
+  "descripcion": "Cerdo preparado con pimentón, zanahorias y cebolla al curry, con coco rallado encima.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERDOS",
+    "glosa": "Cerdos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513956ab9f2fc7e0e676a2"
+  },
+  "nombre": "Cerdo Saigón",
+  "descripcion": "Cerdo rebozado en masita frita, con salsa agridulce, piña, zanahorias y cebolla.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERDOS",
+    "glosa": "Cerdos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513956ab9f2fc7e0e676a3"
+  },
+  "nombre": "Cerdo a la pimienta negra y cebolla",
+  "descripcion": "Cerdo preparado con cebolla y un toque de pimienta negra.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERDOS",
+    "glosa": "Cerdos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513a59ab9f2fc7e0e676a5"
+  },
+  "nombre": "Pollo cinco colores",
+  "descripcion": "Pollo salteado con salsa de ostra, acompañado de champiñones, algas, zanahorias, pimentón y cebolla.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513a59ab9f2fc7e0e676a6"
+  },
+  "nombre": "Pollo Hanoi",
+  "descripcion": "Pollo preparado con ají rojo, zanahorias, algas y un toque de vinagre.",
+  "precio": 7900,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513a59ab9f2fc7e0e676a7"
+  },
+  "nombre": "Pollo con verdura vietnamita",
+  "descripcion": "Pollo salteado con salsa de ostra, acompañado de la verdura pak-choi.",
+  "precio": 7900,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513a59ab9f2fc7e0e676a8"
+  },
+  "nombre": "Pollo con coco y curry",
+  "descripcion": "Pollo preparado con pimentón, zanahorias y cebolla al curry, con coco rallado encima.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513a59ab9f2fc7e0e676a9"
+  },
+  "nombre": "Pollo Chitén",
+  "descripcion": "Pollo preparado con primentón, zanahoria, cebolla, ají rojo y maní encima.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513a59ab9f2fc7e0e676aa"
+  },
+  "nombre": "Pollo Saigón",
+  "descripcion": "Pollo rebozado en masita frita, con salsa agridulce, piña, zanahorias y cebolla.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513a59ab9f2fc7e0e676ab"
+  },
+  "nombre": "Pollo a la pimienta negra y cebolla",
+  "descripcion": "Pollo preparado con cebolla y un toque de pimienta negra.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513a59ab9f2fc7e0e676ac"
+  },
+  "nombre": "Pollo con Loco al curry",
+  "descripcion": "Pollo salteado con Loco y cebollín al curry.",
+  "precio": 9100,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513a59ab9f2fc7e0e676ad"
+  },
+  "nombre": "Pollo con Loco, jengibre y cebolla",
+  "descripcion": "Pollo salteado con Loco y cebolla, con un toque de jengibre.",
+  "precio": 9100,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513b6aab9f2fc7e0e676af"
+  },
+  "nombre": "Tofu al curry",
+  "descripcion": "Tofu preparado al curry con cebollín.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TOFUS",
+    "glosa": "Tofus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513b6aab9f2fc7e0e676b0"
+  },
+  "nombre": "Tofu con verdura vietnamita",
+  "descripcion": "Tofu salteado con salsa de ostra, acompañado de la verdura pak-choi.",
+  "precio": 7900,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TOFUS",
+    "glosa": "Tofus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513b6aab9f2fc7e0e676b1"
+  },
+  "nombre": "Tofu con pollo picante",
+  "descripcion": "Tofu preparado con pollo, cebollín y ají.",
+  "precio": 7900,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TOFUS",
+    "glosa": "Tofus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513b6aab9f2fc7e0e676b2"
+  },
+  "nombre": "Tofu con champiñones y algas",
+  "descripcion": "Tofu salteado con salsa de ostra, acompañado de champiñones y algas.",
+  "precio": 7900,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TOFUS",
+    "glosa": "Tofus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513b6aab9f2fc7e0e676b3"
+  },
+  "nombre": "Tofu con chaumín y verduras",
+  "descripcion": "Tofu salteado con chaumín (tallarines), verduras de la estación y diente de dragón.",
+  "precio": 7900,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TOFUS",
+    "glosa": "Tofus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513b6aab9f2fc7e0e676b4"
+  },
+  "nombre": "Tofu con jengibre y cebolla",
+  "descripcion": "Preparación salteado.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TOFUS",
+    "glosa": "Tofus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513b6aab9f2fc7e0e676b5"
+  },
+  "nombre": "Verduras surtidas con tofu",
+  "descripcion": "Tofu salteado con verduras de la estación, algas y champiñones.",
+  "precio": 7700,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TOFUS",
+    "glosa": "Tofus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513b6aab9f2fc7e0e676b6"
+  },
+  "nombre": "Pack Po Choy",
+  "descripcion": "Salteado de verduras de la estación, con diente de dragón, algas y salsa de ostras, acompañado de PHO frito en el fondo (tallarines de arroz frito).",
+  "precio": 7500,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "TOFUS",
+    "glosa": "Tofus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513da4ab9f2fc7e0e676b8"
+  },
+  "nombre": "Pescado cinco colores",
+  "descripcion": "Pescado salteado con salsa de ostra, acompañado de champiñones, algas, zanahorias, pimentón y cebolla.",
+  "precio": 8000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "PESCADOS",
+    "glosa": "Pescados"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513da4ab9f2fc7e0e676b9"
+  },
+  "nombre": "Pescado a la pimienta negra y cebolla",
+  "descripcion": "Carne preparado con cebolla y un toque de pimienta negra.",
+  "precio": 8000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "PESCADOS",
+    "glosa": "Pescados"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513da4ab9f2fc7e0e676ba"
+  },
+  "nombre": "Pescado Jian-Gang",
+  "descripcion": "Trozos de pescado rebozado en masita frita y salsa agridulce aparte para untar.",
+  "precio": 8000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "PESCADOS",
+    "glosa": "Pescados"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513da4ab9f2fc7e0e676bb"
+  },
+  "nombre": "Pescado picante ácida con verduras de Vietnam",
+  "descripcion": "Pescado preparado con la verdura pak-choi, ají rojo con un toque de vinagre.",
+  "precio": 8000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "PESCADOS",
+    "glosa": "Pescados"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513da4ab9f2fc7e0e676bc"
+  },
+  "nombre": "Pescado Saigón",
+  "descripcion": "Pescado rebozado en masita frita, con salsa agridulce, piña, zanahorias y cebolla.",
+  "precio": 8000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "PESCADOS",
+    "glosa": "Pescados"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513da4ab9f2fc7e0e676bd"
+  },
+  "nombre": "Camarón frito",
+  "descripcion": "Camarones rebozados en masita frita.",
+  "precio": 9300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "PESCADOS",
+    "glosa": "Pescados"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513da4ab9f2fc7e0e676be"
+  },
+  "nombre": "Camarón jengibre, pimienta negra y cebolla",
+  "descripcion": "Camarón salteado a la pimienta negra y cebolla, con un toque de jengibre.",
+  "precio": 9300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "PESCADOS",
+    "glosa": "Pescados"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513da4ab9f2fc7e0e676bf"
+  },
+  "nombre": "Camarón cinco colores",
+  "descripcion": "Camarones salteados con salsa de ostra, acompañado de champiñones, algas, zanahorias, pimentón y cebolla.",
+  "precio": 9300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "PESCADOS",
+    "glosa": "Pescados"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513da4ab9f2fc7e0e676c0"
+  },
+  "nombre": "Camarón ecuatoriano frito",
+  "descripcion": "Camarones ecuatorianos rebozados en masita frita.",
+  "precio": 9300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "PESCADOS",
+    "glosa": "Pescados"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513da4ab9f2fc7e0e676c1"
+  },
+  "nombre": "Camarón ecuatoriano jengibre, pimienta negra y cebolla.",
+  "descripcion": "Camarones ecuatorianos salteados a la pimienta negra y cebolla, con un toque de jengibre.",
+  "precio": 9300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "PESCADOS",
+    "glosa": "Pescados"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513da4ab9f2fc7e0e676c2"
+  },
+  "nombre": "Camarón ecuatoriano cinco colores.",
+  "descripcion": "Camarones ecuatorianos salteados con salsa de ostra, acompañado de champiñones, algas, zanahorias, pimentón y cebolla.",
+  "precio": 9300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "PESCADOS",
+    "glosa": "Pescados"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513e2fab9f2fc7e0e676c6"
+  },
+  "nombre": "Pisco Sour",
+  "descripcion": "",
+  "precio": 3800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "APERITIVOS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513e2fab9f2fc7e0e676c7"
+  },
+  "nombre": "Vaina",
+  "descripcion": "",
+  "precio": 4300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "APERITIVOS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513e2fab9f2fc7e0e676c8"
+  },
+  "nombre": "Amaretto Sour",
+  "descripcion": "",
+  "precio": 4300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "APERITIVOS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513f10ab9f2fc7e0e676cc"
+  },
+  "nombre": "Coca-Cola",
+  "descripcion": "",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513f10ab9f2fc7e0e676cd"
+  },
+  "nombre": "Fanta",
+  "descripcion": "",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513f10ab9f2fc7e0e676ce"
+  },
+  "nombre": "Sprite",
+  "descripcion": "",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513f10ab9f2fc7e0e676cf"
+  },
+  "nombre": "Coca-Cola Zero",
+  "descripcion": "",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513f10ab9f2fc7e0e676d0"
+  },
+  "nombre": "Sprite Zero",
+  "descripcion": "",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513f10ab9f2fc7e0e676d1"
+  },
+  "nombre": "Ginger Ale",
+  "descripcion": "",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513f10ab9f2fc7e0e676d2"
+  },
+  "nombre": "Agua Mineral con gas",
+  "descripcion": "",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513f10ab9f2fc7e0e676d3"
+  },
+  "nombre": "Agua Mineral sin gas",
+  "descripcion": "",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513fc9ab9f2fc7e0e676d8"
+  },
+  "nombre": "Cristal",
+  "descripcion": "",
+  "precio": 3000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513fc9ab9f2fc7e0e676d9"
+  },
+  "nombre": "Escudo",
+  "descripcion": "",
+  "precio": 3000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513fc9ab9f2fc7e0e676da"
+  },
+  "nombre": "Cristal Cero",
+  "descripcion": "Cerveza sin alcohol.",
+  "precio": 3000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513fc9ab9f2fc7e0e676db"
+  },
+  "nombre": "Royal Guard",
+  "descripcion": "",
+  "precio": 3000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513fc9ab9f2fc7e0e676dc"
+  },
+  "nombre": "Heineken",
+  "descripcion": "",
+  "precio": 3000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513fc9ab9f2fc7e0e676dd"
+  },
+  "nombre": "Budweiser",
+  "descripcion": "",
+  "precio": 3000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513fc9ab9f2fc7e0e676de"
+  },
+  "nombre": "Corona",
+  "descripcion": "",
+  "precio": 3000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64513fc9ab9f2fc7e0e676df"
+  },
+  "nombre": "Kuntsmann Torobayo",
+  "descripcion": "",
+  "precio": 3400,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451419fab9f2fc7e0e676e1"
+  },
+  "nombre": "Casillero del Diablo (3/4)",
+  "descripcion": "Cabernet Sauvignon (tinto)",
+  "precio": 9900,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vino"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451419fab9f2fc7e0e676e2"
+  },
+  "nombre": "Casillero del Diablo (3/4)",
+  "descripcion": "Merlot (tinto)",
+  "precio": 9900,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vino"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451419fab9f2fc7e0e676e3"
+  },
+  "nombre": "Carmen Margaux (3/4)",
+  "descripcion": "Cabernet Sauvignon (tinto)",
+  "precio": 7300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vino"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451419fab9f2fc7e0e676e4"
+  },
+  "nombre": "120 Tres Medallas (3/4)",
+  "descripcion": "Cabernet Sauvignon (tinto)",
+  "precio": 7300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vino"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451419fab9f2fc7e0e676e5"
+  },
+  "nombre": "Pinot (3/4)",
+  "descripcion": "Cabernet Sauvignon (tinto)",
+  "precio": 7300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vino"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451419fab9f2fc7e0e676e6"
+  },
+  "nombre": "Casillero del Diablo (3/4)",
+  "descripcion": "Sauvignon Blanc (blanco)",
+  "precio": 9900,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vino"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451419fab9f2fc7e0e676e7"
+  },
+  "nombre": "Casillero del Diablo (3/4)",
+  "descripcion": "Chardonnay (blanco)",
+  "precio": 7300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vino"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451419fab9f2fc7e0e676e8"
+  },
+  "nombre": "120 Tres Medallas (3/4)",
+  "descripcion": "Blanco (blanco)",
+  "precio": 7300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vino"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451419fab9f2fc7e0e676e9"
+  },
+  "nombre": "Misiones de Rengo (3/4)",
+  "descripcion": "Sauvignon Blanc (blanco)",
+  "precio": 7300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vino"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451419fab9f2fc7e0e676ea"
+  },
+  "nombre": "Undurraga RHIN (3/4)",
+  "descripcion": "Sauvignon Blanc (blanco)",
+  "precio": 7300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vino"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "6451419fab9f2fc7e0e676eb"
+  },
+  "nombre": "Carmen RHIN (3/4)",
+  "descripcion": "Sauvignon Blanc (blanco)",
+  "precio": 7300,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vino"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64514227ab9f2fc7e0e676ef"
+  },
+  "nombre": "Té Rojo",
+  "descripcion": "",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BBC",
+    "glosa": "Bebestibles calientes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64514227ab9f2fc7e0e676f0"
+  },
+  "nombre": "Té Verde",
+  "descripcion": "",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BBC",
+    "glosa": "Bebestibles calientes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64514227ab9f2fc7e0e676f1"
+  },
+  "nombre": "Té Lychee",
+  "descripcion": "",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BBC",
+    "glosa": "Bebestibles calientes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64514227ab9f2fc7e0e676f2"
+  },
+  "nombre": "Té Blanco",
+  "descripcion": "",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BBC",
+    "glosa": "Bebestibles calientes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64514227ab9f2fc7e0e676f3"
+  },
+  "nombre": "Té Jazmín",
+  "descripcion": "",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BBC",
+    "glosa": "Bebestibles calientes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64514227ab9f2fc7e0e676f4"
+  },
+  "nombre": "Café Turco",
+  "descripcion": "",
+  "precio": 2500,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BBC",
+    "glosa": "Bebestibles calientes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},{
+  "_id": {
+    "$oid": "64514227ab9f2fc7e0e676f5"
+  },
+  "nombre": "Café",
+  "descripcion": "Instantáneo.",
+  "precio": 2000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "BBC",
+    "glosa": "Bebestibles calientes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+}]
