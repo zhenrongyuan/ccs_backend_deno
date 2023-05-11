@@ -1,5 +1,7 @@
 import { Application } from "https://deno.land/x/oak/mod.ts";
 
+import { oakCors } from "https://deno.land/x/cors/mod.ts";
+
 import clienteRouter from "./routes/ClienteRouter.ts";
 import comandaRouter from "./routes/ComandaRouter.ts";
 import mesaRouter from "./routes/MesaRouter.ts";
@@ -24,6 +26,8 @@ import tipoProductoRouter from "./routes/TipoProductoRouter.ts";
 const PORT = 3800;
 
 const app = new Application();
+
+app.use(oakCors());
 
 app.use(clienteRouter.routes());
 app.use(clienteRouter.allowedMethods());
