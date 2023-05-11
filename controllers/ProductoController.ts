@@ -13,7 +13,7 @@ const getProductos = async ({ response }: { response: any }) => {
       response.status = 200;
       response.body = {
         success: true,
-        producto: allProductos,
+        productos: allProductos,
       };
     } else {
       response.status = 500;
