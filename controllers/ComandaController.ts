@@ -13,7 +13,7 @@ const getComandas = async ({ response }: { response: any }) => {
       response.status = 200;
       response.body = {
         success: true,
-        cliente: allComandas,
+        comandas: allComandas,
       };
     } else {
       response.status = 500;
