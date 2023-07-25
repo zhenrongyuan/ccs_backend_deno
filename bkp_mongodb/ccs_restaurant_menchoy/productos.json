@@ -1,0 +1,3326 @@
+[{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d22"
+  },
+  "nombre": "Wantan",
+  "descripcion": "8 unidades.",
+  "precio": 1900,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d23"
+  },
+  "nombre": "Hoja de camarón",
+  "descripcion": "10 unidades.",
+  "precio": 1900,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d24"
+  },
+  "nombre": "Arrollado de Primavera",
+  "descripcion": "4 unidades.",
+  "precio": 1900,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d25"
+  },
+  "nombre": "Arrollado de Queso",
+  "descripcion": "4 unidades.",
+  "precio": 2500,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d26"
+  },
+  "nombre": "Arrollado de Jamón-Queso",
+  "descripcion": "4 unidades.",
+  "precio": 3500,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d27"
+  },
+  "nombre": "Hunán",
+  "descripcion": "6 unidades.",
+  "precio": 4800,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d28"
+  },
+  "nombre": "Camarón Mandarín",
+  "descripcion": "6 unidades.",
+  "precio": 4500,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d29"
+  },
+  "nombre": "Pollo Mandarín",
+  "descripcion": "6 unidades.",
+  "precio": 2800,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d2a"
+  },
+  "nombre": "Copa de Oro",
+  "descripcion": "6 unidades.",
+  "precio": 4900,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d2b"
+  },
+  "nombre": "Camarón Queso",
+  "descripcion": "6 unidades.",
+  "precio": 5000,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d2c"
+  },
+  "nombre": "Arroz blanco",
+  "descripcion": "",
+  "precio": 1500,
+  "tipo": {
+    "clave": "ARROZ",
+    "glosa": "Arroz"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d2d"
+  },
+  "nombre": "Arroz chaufán",
+  "descripcion": "",
+  "precio": 1800,
+  "tipo": {
+    "clave": "ARROZ",
+    "glosa": "Arroz"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d2e"
+  },
+  "nombre": "Arroz chaufán especial",
+  "descripcion": "",
+  "precio": 5800,
+  "tipo": {
+    "clave": "ARROZ",
+    "glosa": "Arroz"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d2f"
+  },
+  "nombre": "Sopa Wantán",
+  "descripcion": "Wantan, carne chancho, ave, verduras",
+  "precio": 3990,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d30"
+  },
+  "nombre": "Sopa Wantán Min",
+  "descripcion": "Wantan, verduras y tallarines",
+  "precio": 3990,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d31"
+  },
+  "nombre": "Sopa Kaijon",
+  "descripcion": "Pollo asado, fansí, cebollín",
+  "precio": 3800,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d32"
+  },
+  "nombre": "Sopa I Fumin",
+  "descripcion": "Sopa con verduras, carne, ave, cerdo y tallarines",
+  "precio": 3990,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d33"
+  },
+  "nombre": "Sopa Han Chon",
+  "descripcion": "Sopa de huevo, pollo y fansí",
+  "precio": 3990,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d34"
+  },
+  "nombre": "Sopa de Mariscos",
+  "descripcion": "Sopa con mariscos surtidos",
+  "precio": 4500,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d35"
+  },
+  "nombre": "Kumpao",
+  "descripcion": "Arvejas, choclo, poroto verde, pimentón y carne salteado con salsa china.",
+  "precio": 9990,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d36"
+  },
+  "nombre": "Jin Du Gu",
+  "descripcion": "Costillar envuelto en una capita de harina, dorado en aceite y bañado por una salsa china.",
+  "precio": 9990,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d37"
+  },
+  "nombre": "Filete Princesa",
+  "descripcion": "Trocitos de filete con pimetón, zanahoria, salsa de ostras a la plancha.",
+  "precio": 9990,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d38"
+  },
+  "nombre": "Carne Emperador",
+  "descripcion": "Carne envuelta en masita con aceite, bañado con una salsa especial.",
+  "precio": 9990,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d39"
+  },
+  "nombre": "Pollo Emperador",
+  "descripcion": "Pollo envuelto en harina, dorado en aceite",
+  "precio": 8990,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d3a"
+  },
+  "nombre": "Camarón Ecuatoriano",
+  "descripcion": "Cebollín y salsa sésamo a la plancha.",
+  "precio": 13500,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d3b"
+  },
+  "nombre": "Camarón Emperador",
+  "descripcion": "Camarón ecuatoriano envuelto en harina y frito.",
+  "precio": 13500,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d3c"
+  },
+  "nombre": "Chancho Chasiu",
+  "descripcion": "Chancho asado con cebollín y pimentón, preparado con salsa de ostra a la plancha.",
+  "precio": 9990,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d3d"
+  },
+  "nombre": "Verduras Chinas",
+  "descripcion": "Verduras chinas de temporadas, preparadas con salsa china.",
+  "precio": 9990,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d3e"
+  },
+  "nombre": "Marisco a la china",
+  "descripcion": "Trozo de congrio, camarones, champiñones, algas y pimentones a la plancha",
+  "precio": 9990,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d3f"
+  },
+  "nombre": "Marisco Surtido",
+  "descripcion": "Camarones, trozos de congrio, macha, calamar, pimentón y cebollín a la plancha",
+  "precio": 9990,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d40"
+  },
+  "nombre": "Pollo Camarón",
+  "descripcion": "Salteado con cebollín y salsa de ostra.",
+  "precio": 9990,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d41"
+  },
+  "nombre": "Agridulce Extra Piña",
+  "descripcion": "",
+  "precio": 9990,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d42"
+  },
+  "nombre": "Parrillada China",
+  "descripcion": "",
+  "precio": 9990,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d43"
+  },
+  "nombre": "Carne Mongoliana",
+  "descripcion": "Ají y cebollín.",
+  "precio": 6990,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d44"
+  },
+  "nombre": "Carne Champiñones",
+  "descripcion": "Champiñones y Cebollín.",
+  "precio": 7500,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d45"
+  },
+  "nombre": "Carne a la China",
+  "descripcion": "Algas, champiñones y cebollín.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d46"
+  },
+  "nombre": "Carne Tausí",
+  "descripcion": "Ajo, porotos de soya y cebollín.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d47"
+  },
+  "nombre": "Carne Agridulce",
+  "descripcion": "Envuelto en masita frita con trozos de piña y salsa agridulce.",
+  "precio": 6990,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d48"
+  },
+  "nombre": "Carne Algas",
+  "descripcion": "Salteado con algas y cebollín.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d49"
+  },
+  "nombre": "Carne 5 Sabores",
+  "descripcion": "Salteada con salsa de 5 sabores.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d4a"
+  },
+  "nombre": "Carne Menchoy",
+  "descripcion": "Carne de vacuno y pollo con champiñones y cebollín.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "CARNES",
+    "glosa": "Carnes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d4b"
+  },
+  "nombre": "Pollo Mongoliano",
+  "descripcion": "Ají y cebollín.",
+  "precio": 6990,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d4c"
+  },
+  "nombre": "Pollo Champiñones",
+  "descripcion": "Champiñones y Cebollín.",
+  "precio": 7500,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d4d"
+  },
+  "nombre": "Pollo a la China",
+  "descripcion": "Algas, champiñones y cebollín.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d4e"
+  },
+  "nombre": "Pollo Tausí",
+  "descripcion": "Ajo, porotos de soya y cebollín.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d4f"
+  },
+  "nombre": "Pollo Agridulce",
+  "descripcion": "Envuelto en masita frita con trozos de piña y salsa agridulce.",
+  "precio": 6990,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d50"
+  },
+  "nombre": "Pollo Algas",
+  "descripcion": "Salteado con algas y cebollín.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d51"
+  },
+  "nombre": "Pollo 5 Sabores",
+  "descripcion": "Salteada con salsa de 5 sabores.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d52"
+  },
+  "nombre": "Pollo Pekín",
+  "descripcion": "Asado con salsa china.",
+  "precio": 6900,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d53"
+  },
+  "nombre": "Pollo Chicharrón",
+  "descripcion": "Pollo con cebollín, rebozado en masa frita.",
+  "precio": 6990,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d54"
+  },
+  "nombre": "Pollo Chitén",
+  "descripcion": "Pollo con verduras salteadas y almendras.",
+  "precio": 6500,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d55"
+  },
+  "nombre": "Cerdo Mongoliano",
+  "descripcion": "Ají y cebollín.",
+  "precio": 6990,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERDOS",
+    "glosa": "Cerdos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d56"
+  },
+  "nombre": "Cerdo Champiñones",
+  "descripcion": "Champiñones y Cebollín.",
+  "precio": 7500,
+  "tipo": {
+    "clave": "CERDOS",
+    "glosa": "Cerdos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d57"
+  },
+  "nombre": "Cerdo a la China",
+  "descripcion": "Algas, champiñones y cebollín.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "CERDOS",
+    "glosa": "Cerdos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d58"
+  },
+  "nombre": "Cerdo Tausí",
+  "descripcion": "Ajo, porotos de soya y cebollín.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "CERDOS",
+    "glosa": "Cerdos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d59"
+  },
+  "nombre": "Cerdo Agridulce",
+  "descripcion": "Envuelto en masita frita con trozos de piña y salsa agridulce.",
+  "precio": 6990,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CERDOS",
+    "glosa": "Cerdos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d5a"
+  },
+  "nombre": "Cerdo Algas",
+  "descripcion": "Salteado con algas y cebollín.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "CERDOS",
+    "glosa": "Cerdos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d5b"
+  },
+  "nombre": "Cerdo 5 Sabores",
+  "descripcion": "Salteada con salsa de 5 sabores.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "CERDOS",
+    "glosa": "Cerdos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d5c"
+  },
+  "nombre": "Chapsui Especial",
+  "descripcion": "Carne, pollo, cerdo, camarones, algas, champiñones, tallo de bambú y almendras.",
+  "precio": 9990,
+  "tipo": {
+    "clave": "CHAPSUI",
+    "glosa": "Chapsui"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d5d"
+  },
+  "nombre": "Chapsui de Chamarón",
+  "descripcion": "",
+  "precio": 9990,
+  "tipo": {
+    "clave": "CHAPSUI",
+    "glosa": "Chapsui"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d5e"
+  },
+  "nombre": "Chapsui de Pollo",
+  "descripcion": "",
+  "precio": 5990,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CHAPSUI",
+    "glosa": "Chapsui"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d5f"
+  },
+  "nombre": "Chapsui de Congrio",
+  "descripcion": "",
+  "precio": 9990,
+  "tipo": {
+    "clave": "CHAPSUI",
+    "glosa": "Chapsui"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d60"
+  },
+  "nombre": "Chapsui de Verduras",
+  "descripcion": "",
+  "precio": 5990,
+  "tipo": {
+    "clave": "VEGGIE",
+    "glosa": "Vegetariano"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d61"
+  },
+  "nombre": "Chapsui de Cerdo",
+  "descripcion": "",
+  "precio": 5990,
+  "tipo": {
+    "clave": "CHAPSUI",
+    "glosa": "Chapsui"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d62"
+  },
+  "nombre": "Chapsui de Carne",
+  "descripcion": "",
+  "precio": 5990,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "CHAPSUI",
+    "glosa": "Chapsui"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d63"
+  },
+  "nombre": "Pock Po Choy",
+  "descripcion": "",
+  "precio": 9990,
+  "tipo": {
+    "clave": "VEGGIE",
+    "glosa": "Vegetariano"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d64"
+  },
+  "nombre": "Diente de Dragón con Camarones",
+  "descripcion": "",
+  "precio": 9990,
+  "tipo": {
+    "clave": "DDGN",
+    "glosa": "Diente de dragón"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d65"
+  },
+  "nombre": "Diente de Dragón con Pollo",
+  "descripcion": "",
+  "precio": 5990,
+  "tipo": {
+    "clave": "DDGN",
+    "glosa": "Diente de dragón"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d66"
+  },
+  "nombre": "Diente de Dragón con Congrio",
+  "descripcion": "",
+  "precio": 9990,
+  "tipo": {
+    "clave": "DDGN",
+    "glosa": "Diente de dragón"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d67"
+  },
+  "nombre": "Diente de Dragón solo",
+  "descripcion": "",
+  "precio": 5990,
+  "tipo": {
+    "clave": "VEGGIE",
+    "glosa": "Vegetariano"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d68"
+  },
+  "nombre": "Diente de Dragón con Cerdo",
+  "descripcion": "",
+  "precio": 5990,
+  "tipo": {
+    "clave": "DDGN",
+    "glosa": "Diente de dragón"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d69"
+  },
+  "nombre": "Diente de Dragón con Carne",
+  "descripcion": "",
+  "precio": 5990,
+  "tipo": {
+    "clave": "DDGN",
+    "glosa": "Diente de dragón"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d6a"
+  },
+  "nombre": "Chaumín Especial",
+  "descripcion": "Tallarines salteados con carne, pollo, cerdo, camarones y verduras.",
+  "precio": 9990,
+  "tipo": {
+    "clave": "CHAUMIN",
+    "glosa": "Chaumín"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d6b"
+  },
+  "nombre": "Chaumín Carne",
+  "descripcion": "Tallarines salteados con carne y verduras.",
+  "precio": 6990,
+  "tipo": {
+    "clave": "CHAUMIN",
+    "glosa": "Chaumín"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d6c"
+  },
+  "nombre": "Chaumín Pollo",
+  "descripcion": "Tallarines salteados con pollo y verduras.",
+  "precio": 6990,
+  "tipo": {
+    "clave": "CHAUMIN",
+    "glosa": "Chaumín"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d6d"
+  },
+  "nombre": "Chaumín Camarón",
+  "descripcion": "Tallarines salteados con camarones y verduras.",
+  "precio": 9990,
+  "tipo": {
+    "clave": "CHAUMIN",
+    "glosa": "Chaumín"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d6e"
+  },
+  "nombre": "Chaumín Cerdo",
+  "descripcion": "Tallarines salteados con cerdo y verduras.",
+  "precio": 6990,
+  "tipo": {
+    "clave": "CHAUMIN",
+    "glosa": "Chaumín"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d6f"
+  },
+  "nombre": "Arrollado de Mariscos",
+  "descripcion": "Pescado molido envuelto con huevo cocido al vapor",
+  "precio": 9990,
+  "tipo": {
+    "clave": "MAR",
+    "glosa": "Productos del Mar"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d70"
+  },
+  "nombre": "Congrio Yantzee",
+  "descripcion": "Trozos de pescado frito",
+  "precio": 9990,
+  "tipo": {
+    "clave": "MAR",
+    "glosa": "Productos del Mar"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d71"
+  },
+  "nombre": "Congrio Fuyón",
+  "descripcion": "Tortilla de huevo con congrio y cebollín",
+  "precio": 9990,
+  "tipo": {
+    "clave": "MAR",
+    "glosa": "Productos del Mar"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d72"
+  },
+  "nombre": "Congrio Cantonés",
+  "descripcion": "Trozos de congrio salteado con ajo, porotos de soya y cebollín",
+  "precio": 9990,
+  "tipo": {
+    "clave": "MAR",
+    "glosa": "Productos del Mar"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d73"
+  },
+  "nombre": "Camarón a la china",
+  "descripcion": "Algas, champiñones y cebollín salteado con salsa de ostras",
+  "precio": 9990,
+  "tipo": {
+    "clave": "MAR",
+    "glosa": "Productos del Mar"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d74"
+  },
+  "nombre": "Camarón Fuyón",
+  "descripcion": "Tortilla de huevo con camarones y cebollín",
+  "precio": 9990,
+  "tipo": {
+    "clave": "MAR",
+    "glosa": "Productos del Mar"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d75"
+  },
+  "nombre": "Camarón Yantzee",
+  "descripcion": "Camarones rebozados en harina y fritos",
+  "precio": 9990,
+  "tipo": {
+    "clave": "MAR",
+    "glosa": "Productos del Mar"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d76"
+  },
+  "nombre": "Camarón Cebollín",
+  "descripcion": "",
+  "precio": 9990,
+  "tipo": {
+    "clave": "MAR",
+    "glosa": "Productos del Mar"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d77"
+  },
+  "nombre": "Calamar Cantonés",
+  "descripcion": "Calamar salteado con ajo, porotos de soya y cebollín",
+  "precio": 9990,
+  "tipo": {
+    "clave": "MAR",
+    "glosa": "Productos del Mar"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d78"
+  },
+  "nombre": "Papas fritas",
+  "descripcion": "",
+  "precio": 3000,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d79"
+  },
+  "nombre": "Copa Menchoy",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "POSTRE",
+    "glosa": "Postres"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d7a"
+  },
+  "nombre": "Merengue Helado",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "POSTRE",
+    "glosa": "Postres"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d7b"
+  },
+  "nombre": "Banana Split",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "POSTRE",
+    "glosa": "Postres"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d7c"
+  },
+  "nombre": "Copa Tropical",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "POSTRE",
+    "glosa": "Postres"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d7d"
+  },
+  "nombre": "Copa Helado",
+  "descripcion": "",
+  "precio": 3990,
+  "tipo": {
+    "clave": "POSTRE",
+    "glosa": "Postres"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d7e"
+  },
+  "nombre": "Laychees",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "POSTRE",
+    "glosa": "Postres"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d7f"
+  },
+  "nombre": "Duraznos",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "POSTRE",
+    "glosa": "Postres"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d80"
+  },
+  "nombre": "Piñas",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "POSTRE",
+    "glosa": "Postres"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d81"
+  },
+  "nombre": "Macedonia",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "POSTRE",
+    "glosa": "Postres"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d82"
+  },
+  "nombre": "Castañas",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "POSTRE",
+    "glosa": "Postres"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d83"
+  },
+  "nombre": "Te",
+  "descripcion": "",
+  "precio": 1500,
+  "tipo": {
+    "clave": "BBC",
+    "glosa": "Bebestibles calientes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d84"
+  },
+  "nombre": "Nescafe",
+  "descripcion": "",
+  "precio": 1500,
+  "tipo": {
+    "clave": "BBC",
+    "glosa": "Bebestibles calientes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d85"
+  },
+  "nombre": "Cafe Expreso",
+  "descripcion": "",
+  "precio": 2000,
+  "tipo": {
+    "clave": "BBC",
+    "glosa": "Bebestibles calientes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d86"
+  },
+  "nombre": "Cafe Expreso Doble",
+  "descripcion": "",
+  "precio": 2500,
+  "tipo": {
+    "clave": "BBC",
+    "glosa": "Bebestibles calientes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d87"
+  },
+  "nombre": "Cafe Cortado",
+  "descripcion": "",
+  "precio": 2500,
+  "tipo": {
+    "clave": "BBC",
+    "glosa": "Bebestibles calientes"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d88"
+  },
+  "nombre": "Coca Cola",
+  "descripcion": "",
+  "precio": 1800,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d89"
+  },
+  "nombre": "Coca Cola Light",
+  "descripcion": "",
+  "precio": 1800,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d8a"
+  },
+  "nombre": "Coca Cola Zero",
+  "descripcion": "",
+  "precio": 1800,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d8b"
+  },
+  "nombre": "Fanta",
+  "descripcion": "",
+  "precio": 1800,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d8c"
+  },
+  "nombre": "Fanta Zero",
+  "descripcion": "",
+  "precio": 1800,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d8d"
+  },
+  "nombre": "Sprite",
+  "descripcion": "",
+  "precio": 1800,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d8e"
+  },
+  "nombre": "Sprite Zero",
+  "descripcion": "",
+  "precio": 1800,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d8f"
+  },
+  "nombre": "Jugo De Mango",
+  "descripcion": "",
+  "precio": 3000,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d90"
+  },
+  "nombre": "Jugo De Piña",
+  "descripcion": "",
+  "precio": 3000,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d91"
+  },
+  "nombre": "Jugo De naranja",
+  "descripcion": "",
+  "precio": 3000,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d92"
+  },
+  "nombre": "Jugo De Frambuesa",
+  "descripcion": "",
+  "precio": 3000,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d93"
+  },
+  "nombre": "Nectar De Durazno",
+  "descripcion": "",
+  "precio": 1800,
+  "tipo": {
+    "clave": "BEBIDAS",
+    "glosa": "Bebidas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d94"
+  },
+  "nombre": "Pisco Sour",
+  "descripcion": "",
+  "precio": 2800,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d95"
+  },
+  "nombre": "Tequila Sour",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d96"
+  },
+  "nombre": "Whisky Sour",
+  "descripcion": "",
+  "precio": 4990,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d97"
+  },
+  "nombre": "Amaretto Sour",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d98"
+  },
+  "nombre": "Vodka Sour",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d99"
+  },
+  "nombre": "Lychees Sour",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d9a"
+  },
+  "nombre": "Vaina",
+  "descripcion": "",
+  "precio": 2800,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d9b"
+  },
+  "nombre": "Primavera Con Alcohol",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d9c"
+  },
+  "nombre": "Primavera Sin Alcohol",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d9d"
+  },
+  "nombre": "Martini",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d9e"
+  },
+  "nombre": "Martini Seco",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175d9f"
+  },
+  "nombre": "Acapulco",
+  "descripcion": "Tequila Blanco - Ron Blanco - Jugo De Naranja",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175da0"
+  },
+  "nombre": "Cuba Libre",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175da1"
+  },
+  "nombre": "Caipiriña",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175da2"
+  },
+  "nombre": "Caipiroska",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175da3"
+  },
+  "nombre": "Caipirisima",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175da4"
+  },
+  "nombre": "Vodka Naranja",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175da5"
+  },
+  "nombre": "Vodka Stolichnaya Tonica",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175da6"
+  },
+  "nombre": "Vodka Absolut Tonica",
+  "descripcion": "",
+  "precio": 4990,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175da7"
+  },
+  "nombre": "Tom Collins",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175da8"
+  },
+  "nombre": "Old Fashioned",
+  "descripcion": "Whisky  Jugo De Piña  Angostura",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175da9"
+  },
+  "nombre": "Piña Colada",
+  "descripcion": "Ron - Juga de Piña - Leche De Coco",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175daa"
+  },
+  "nombre": "Manhattan",
+  "descripcion": "Whisky - Vermout - Angostura",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dab"
+  },
+  "nombre": "Gin And Tonic",
+  "descripcion": "",
+  "precio": 5500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dac"
+  },
+  "nombre": "Gin And Gin",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dad"
+  },
+  "nombre": "Tequila Margarita",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dae"
+  },
+  "nombre": "Tequila Sunrise",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175daf"
+  },
+  "nombre": "Combinado (Capel 35°)",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "APTV",
+    "glosa": "Aperitivos"
+  },
+  "estado": {
+    "clave": "DSL",
+    "glosa": "Disponible solo en local"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175db0"
+  },
+  "nombre": "Whisky Etiqueta Roja",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "TRIM",
+    "glosa": "Tragos Importados"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175db1"
+  },
+  "nombre": "Whisky Etiqueta Negra",
+  "descripcion": "",
+  "precio": 5900,
+  "tipo": {
+    "clave": "TRIM",
+    "glosa": "Tragos Importados"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175db2"
+  },
+  "nombre": "Whisky chivas Regal",
+  "descripcion": "",
+  "precio": 6990,
+  "tipo": {
+    "clave": "TRIM",
+    "glosa": "Tragos Importados"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175db3"
+  },
+  "nombre": "Whisky Ballantines",
+  "descripcion": "",
+  "precio": 5000,
+  "tipo": {
+    "clave": "TRIM",
+    "glosa": "Tragos Importados"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175db4"
+  },
+  "nombre": "Campari",
+  "descripcion": "",
+  "precio": 4000,
+  "tipo": {
+    "clave": "TRIM",
+    "glosa": "Tragos Importados"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175db5"
+  },
+  "nombre": "BAYLEYS",
+  "descripcion": "",
+  "precio": 4000,
+  "tipo": {
+    "clave": "TRIM",
+    "glosa": "Tragos Importados"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175db6"
+  },
+  "nombre": "Alto Del Carmen 35°",
+  "descripcion": "",
+  "precio": 4000,
+  "tipo": {
+    "clave": "TRIM",
+    "glosa": "Tragos Importados"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175db7"
+  },
+  "nombre": "Alto Del Carmen 46°",
+  "descripcion": "",
+  "precio": 4500,
+  "tipo": {
+    "clave": "TRIM",
+    "glosa": "Tragos Importados"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175db8"
+  },
+  "nombre": "Mistral 35°",
+  "descripcion": "",
+  "precio": 3500,
+  "tipo": {
+    "clave": "TRIM",
+    "glosa": "Tragos Importados"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175db9"
+  },
+  "nombre": "Cristal",
+  "descripcion": "",
+  "precio": 2500,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dba"
+  },
+  "nombre": "Escudo",
+  "descripcion": "",
+  "precio": 2500,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dbb"
+  },
+  "nombre": "Budweiser",
+  "descripcion": "",
+  "precio": 2800,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dbc"
+  },
+  "nombre": "Heineken",
+  "descripcion": "",
+  "precio": 2800,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dbd"
+  },
+  "nombre": "Corona",
+  "descripcion": "",
+  "precio": 2800,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dbe"
+  },
+  "nombre": "Sol",
+  "descripcion": "",
+  "precio": 2800,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dbf"
+  },
+  "nombre": "Austral",
+  "descripcion": "",
+  "precio": 4000,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dc0"
+  },
+  "nombre": "Kunstmann",
+  "descripcion": "",
+  "precio": 4000,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dc1"
+  },
+  "nombre": "Cervazas Artesanales",
+  "descripcion": "",
+  "precio": 4000,
+  "tipo": {
+    "clave": "CERVEZAS",
+    "glosa": "Cervezas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dc2"
+  },
+  "nombre": "Casillero Del Diablo",
+  "descripcion": "1/2",
+  "precio": 6990,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dc3"
+  },
+  "nombre": "Casillero Del Diablo",
+  "descripcion": "3/4",
+  "precio": 9990,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dc4"
+  },
+  "nombre": "120 Tres Medallas",
+  "descripcion": "1/2",
+  "precio": 5000,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dc5"
+  },
+  "nombre": "120 Tres Medallas",
+  "descripcion": "3/4",
+  "precio": 6490,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dc6"
+  },
+  "nombre": "Carmen Margaux",
+  "descripcion": "1/2",
+  "precio": 5000,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dc7"
+  },
+  "nombre": "Carmen Margaux",
+  "descripcion": "3/4",
+  "precio": 6490,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dc8"
+  },
+  "nombre": "Pinot",
+  "descripcion": "1/2",
+  "precio": 5500,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dc9"
+  },
+  "nombre": "Pinot",
+  "descripcion": "3/4",
+  "precio": 6490,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dca"
+  },
+  "nombre": "Misiones De Rengo",
+  "descripcion": "3/4",
+  "precio": 7990,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dcb"
+  },
+  "nombre": "Casa Real",
+  "descripcion": "3/4",
+  "precio": 15990,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dcc"
+  },
+  "nombre": "Carmen Insigne",
+  "descripcion": "3/4",
+  "precio": 6990,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dcd"
+  },
+  "nombre": "Santa Carolina",
+  "descripcion": "3/4",
+  "precio": 5500,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dce"
+  },
+  "nombre": "Carmen Carmenere",
+  "descripcion": "3/4",
+  "precio": 6990,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dcf"
+  },
+  "nombre": "Carmen Sirah",
+  "descripcion": "3/4",
+  "precio": 6990,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dd0"
+  },
+  "nombre": "Carmen Merlot",
+  "descripcion": "3/4",
+  "precio": 6990,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dd1"
+  },
+  "nombre": "Casillero Del Diablo Carmenere",
+  "descripcion": "3/4",
+  "precio": 9990,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dd2"
+  },
+  "nombre": "Casillero Del Diablo Sirah",
+  "descripcion": "3/4",
+  "precio": 9990,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dd3"
+  },
+  "nombre": "Casillero Del Diablo Merlot",
+  "descripcion": "3/4",
+  "precio": 9990,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "ND",
+    "glosa": "No disponible"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dd4"
+  },
+  "nombre": "Sangre De Toro",
+  "descripcion": "3/4",
+  "precio": 15990,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": null
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dd5"
+  },
+  "nombre": "Carmen Margaux",
+  "descripcion": "Botellin",
+  "precio": 2500,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dd6"
+  },
+  "nombre": "120 Tres Medallas",
+  "descripcion": "Botellin",
+  "precio": 2500,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dd7"
+  },
+  "nombre": "Rhin Carmen",
+  "descripcion": "Botellinb",
+  "precio": 2500,
+  "tipo": {
+    "clave": "VINOS",
+    "glosa": "Vinos"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dd8"
+  },
+  "nombre": "Undurraga",
+  "descripcion": "",
+  "precio": 9990,
+  "tipo": {
+    "clave": "ESP",
+    "glosa": "Espumantes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dd9"
+  },
+  "nombre": "Valdivieso",
+  "descripcion": "",
+  "precio": 9990,
+  "tipo": {
+    "clave": "ESP",
+    "glosa": "Espumantes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dda"
+  },
+  "nombre": "c/ Carne Mongoliana",
+  "descripcion": "Colacion Carne Mongoliana",
+  "precio": 4500,
+  "popularidad": 5,
+  "tipo": {
+    "clave": "COLAC",
+    "glosa": "Colacion"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175ddb"
+  },
+  "nombre": "c/ Pollo Mongoliano",
+  "descripcion": "Colacion Pollo Mongoliano",
+  "precio": 4500,
+  "popularidad": 5,
+  "tipo": {
+    "clave": "COLAC",
+    "glosa": "Colacion"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175ddc"
+  },
+  "nombre": "c/ Chapsui Carne",
+  "descripcion": "Colacion Chapsui Carne",
+  "precio": 4000,
+  "popularidad": 5,
+  "tipo": {
+    "clave": "COLAC",
+    "glosa": "Colacion"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175ddd"
+  },
+  "nombre": "c/ Chapsui Pollo",
+  "descripcion": "Colacion Chapsui Pollo",
+  "precio": 4000,
+  "popularidad": 5,
+  "tipo": {
+    "clave": "COLAC",
+    "glosa": "Colacion"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dde"
+  },
+  "nombre": "Menú para 1A",
+  "descripcion": "Menú para 1A",
+  "precio": 9500,
+  "tipo": {
+    "clave": "MENU",
+    "glosa": "Menus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175ddf"
+  },
+  "nombre": "Menú para 1B",
+  "descripcion": "Menú para 1A",
+  "precio": 10000,
+  "tipo": {
+    "clave": "MENU",
+    "glosa": "Menus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175de0"
+  },
+  "nombre": "Menú para 2A",
+  "descripcion": "Menú para 2A",
+  "precio": 17000,
+  "popularidad": 5,
+  "tipo": {
+    "clave": "MENU",
+    "glosa": "Menus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175de1"
+  },
+  "nombre": "Menú para 2B",
+  "descripcion": "Menú para 2B",
+  "precio": 18000,
+  "popularidad": 5,
+  "tipo": {
+    "clave": "MENU",
+    "glosa": "Menus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175de2"
+  },
+  "nombre": "Menú para 3",
+  "descripcion": "Menú para 3",
+  "precio": 26000,
+  "popularidad": 5,
+  "tipo": {
+    "clave": "MENU",
+    "glosa": "Menus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175de3"
+  },
+  "nombre": "Menú para 4",
+  "descripcion": "Menú para 4",
+  "precio": 38000,
+  "tipo": {
+    "clave": "MENU",
+    "glosa": "Menus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175de4"
+  },
+  "nombre": "Menú para 5",
+  "descripcion": "Menú para 5",
+  "precio": 49000,
+  "tipo": {
+    "clave": "MENU",
+    "glosa": "Menus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175de5"
+  },
+  "nombre": "Menú para 6",
+  "descripcion": "Menú para 6",
+  "precio": 64000,
+  "tipo": {
+    "clave": "MENU",
+    "glosa": "Menus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175de6"
+  },
+  "nombre": "Menú para 8",
+  "descripcion": "Menú para 8",
+  "precio": 79000,
+  "tipo": {
+    "clave": "MENU",
+    "glosa": "Menus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175de7"
+  },
+  "nombre": "Menú para 10",
+  "descripcion": "Menú para 10",
+  "precio": 97000,
+  "tipo": {
+    "clave": "MENU",
+    "glosa": "Menus"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175de8"
+  },
+  "nombre": "Parrillada Mar y Tierra",
+  "descripcion": "Carne, Pollo, Cerdo, Camarón, Calamar, Champiñón, Algas y cebollín servido a la plancha.",
+  "precio": 12990,
+  "popularidad": 5,
+  "tipo": {
+    "clave": "SUGCHF",
+    "glosa": "Sugerencias del Chef"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175de9"
+  },
+  "nombre": "Arrollado Primavera Vegetariano",
+  "descripcion": "4 Unidades.",
+  "precio": 1900,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dea"
+  },
+  "nombre": "Wantan Vegetariano",
+  "descripcion": "8 Unidades.",
+  "precio": 1900,
+  "tipo": {
+    "clave": "ENTRADA",
+    "glosa": "Entrada"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175deb"
+  },
+  "nombre": "Seitán Mongoliano",
+  "descripcion": "",
+  "precio": 6990,
+  "tipo": {
+    "clave": "VEGGIE",
+    "glosa": "Vegetariano"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dec"
+  },
+  "nombre": "Seitán a la China",
+  "descripcion": "Seitán salteado con algas, champiñones y cebollín.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "VEGGIE",
+    "glosa": "Vegetariano"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175ded"
+  },
+  "nombre": "Chapsui de Seitán",
+  "descripcion": "8990",
+  "precio": 8990,
+  "tipo": {
+    "clave": "VEGGIE",
+    "glosa": "Vegetariano"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175dee"
+  },
+  "nombre": "Tofu a la china",
+  "descripcion": "Tofu con algas, champiñones y cebollín.",
+  "precio": 8990,
+  "tipo": {
+    "clave": "VEGGIE",
+    "glosa": "Vegetariano"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175def"
+  },
+  "nombre": "Algas al ajillo",
+  "descripcion": "",
+  "precio": 8990,
+  "tipo": {
+    "clave": "VEGGIE",
+    "glosa": "Vegetariano"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "61b6ab23fc1860a1d7175df0"
+  },
+  "nombre": "Chaumín de Verduras",
+  "descripcion": "Tallarines salteados con verduras",
+  "precio": 6990,
+  "tipo": {
+    "clave": "VEGGIE",
+    "glosa": "Vegetariano"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+}]

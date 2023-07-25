@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "61aea019ef5e137dc2dc560b"
+  },
+  "nombre": "Nicolás Zapata",
+  "correo": "nicolas.zapata@asd.cl",
+  "direccion": "Av. Manuel Montt 365",
+  "celular": "123456789"
+}]

@@ -2,8 +2,8 @@
   "_id": {
     "$oid": "61aeb4f026e25205dd16e623"
   },
-  "clave": "ENTRADAS",
-  "glosa": "Entradas"
+  "clave": "ENTRADA",
+  "glosa": "Entrada"
 },
 {
   "_id": {
@@ -23,8 +23,8 @@
   "_id": {
     "$oid": "61aeb4f026e25205dd16e626"
   },
-  "clave": "TALLARINES",
-  "glosa": "Tallarines"
+  "clave": "SUGCHF",
+  "glosa": "Sugerencias del Chef"
 },
 {
   "_id": {
@@ -51,15 +51,29 @@
   "_id": {
     "$oid": "61aeb4f026e25205dd16e62a"
   },
-  "clave": "TOFUS",
-  "glosa": "Tofus"
+  "clave": "CHAPSUI",
+  "glosa": "Chapsui"
+},
+{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e62b"
+  },
+  "clave": "DDGN",
+  "glosa": "Diente de dragón"
 },
 {
   "_id": {
     "$oid": "61aeb4f026e25205dd16e62c"
   },
-  "clave": "PESCADOS",
-  "glosa": "Pescados"
+  "clave": "CHAUMIN",
+  "glosa": "Chaumín"
+},
+{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e62d"
+  },
+  "clave": "MAR",
+  "glosa": "Productos del Mar"
 },
 {
   "_id": {
@@ -72,7 +86,7 @@
   "_id": {
     "$oid": "61aeb4f026e25205dd16e62f"
   },
-  "clave": "APERITIVOS",
+  "clave": "APTV",
   "glosa": "Aperitivos"
 },
 {
@@ -91,10 +105,38 @@
 },
 {
   "_id": {
+    "$oid": "61aeb4f026e25205dd16e632"
+  },
+  "clave": "DSLD",
+  "glosa": "Destilados"
+},
+{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e633"
+  },
+  "clave": "POSTRE",
+  "glosa": "Postres"
+},
+{
+  "_id": {
     "$oid": "61aeb4f026e25205dd16e634"
   },
   "clave": "BBC",
   "glosa": "Bebestibles calientes"
+},
+{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e635"
+  },
+  "clave": "TRIM",
+  "glosa": "Tragos Importados"
+},
+{
+  "_id": {
+    "$oid": "61aeb4f026e25205dd16e636"
+  },
+  "clave": "ESP",
+  "glosa": "Espumantes"
 },
 {
   "_id": {
@@ -116,11 +158,4 @@
   },
   "clave": "VEGGIE",
   "glosa": "Vegetariano"
-},
-{
-  "_id": {
-    "$oid": "646133e2f1d251c2dc27f4ca"
-  },
-  "clave": "OTROS",
-  "glosa": "Otros"
 }]

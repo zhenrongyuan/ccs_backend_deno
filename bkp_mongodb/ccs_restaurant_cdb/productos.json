@@ -7,14 +7,15 @@
   "precio": 3800,
   "popularidad": 4,
   "tipo": {
-    "clave": "ENTRADA",
-    "glosa": "Entrada"
+    "clave": "ENTRADAS",
+    "glosa": "Entradas"
   },
   "estado": {
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64512ed4ab9f2fc7e0e6766f"
   },
@@ -23,14 +24,15 @@
   "precio": 3800,
   "popularidad": 4,
   "tipo": {
-    "clave": "ENTRADA",
-    "glosa": "Entrada"
+    "clave": "ENTRADAS",
+    "glosa": "Entradas"
   },
   "estado": {
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64512ed4ab9f2fc7e0e67670"
   },
@@ -39,14 +41,15 @@
   "precio": 7700,
   "popularidad": 4,
   "tipo": {
-    "clave": "ENTRADA",
-    "glosa": "Entrada"
+    "clave": "ENTRADAS",
+    "glosa": "Entradas"
   },
   "estado": {
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513050ab9f2fc7e0e67673"
   },
@@ -55,14 +58,15 @@
   "precio": 7700,
   "popularidad": 4,
   "tipo": {
-    "clave": "ENTRADA",
-    "glosa": "Entrada"
+    "clave": "ENTRADAS",
+    "glosa": "Entradas"
   },
   "estado": {
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513050ab9f2fc7e0e67674"
   },
@@ -71,14 +75,15 @@
   "precio": 5000,
   "popularidad": 4,
   "tipo": {
-    "clave": "ENTRADA",
-    "glosa": "Entrada"
+    "clave": "ENTRADAS",
+    "glosa": "Entradas"
   },
   "estado": {
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513050ab9f2fc7e0e67675"
   },
@@ -87,14 +92,15 @@
   "precio": 4700,
   "popularidad": 4,
   "tipo": {
-    "clave": "ENTRADA",
-    "glosa": "Entrada"
+    "clave": "ENTRADAS",
+    "glosa": "Entradas"
   },
   "estado": {
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513050ab9f2fc7e0e67676"
   },
@@ -103,14 +109,15 @@
   "precio": 4700,
   "popularidad": 4,
   "tipo": {
-    "clave": "ENTRADA",
-    "glosa": "Entrada"
+    "clave": "ENTRADAS",
+    "glosa": "Entradas"
   },
   "estado": {
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451318bab9f2fc7e0e6767a"
   },
@@ -126,7 +133,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451318bab9f2fc7e0e6767b"
   },
@@ -142,7 +150,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451318bab9f2fc7e0e6767c"
   },
@@ -158,7 +167,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "645136f3ab9f2fc7e0e67688"
   },
@@ -174,7 +184,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "645136f3ab9f2fc7e0e67689"
   },
@@ -190,7 +201,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "645136f3ab9f2fc7e0e6768a"
   },
@@ -206,7 +218,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "645136f3ab9f2fc7e0e6768b"
   },
@@ -222,7 +235,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "645136f3ab9f2fc7e0e6768c"
   },
@@ -238,7 +252,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "645136f3ab9f2fc7e0e6768d"
   },
@@ -254,7 +269,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "645136f3ab9f2fc7e0e6768e"
   },
@@ -270,7 +286,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "645136f3ab9f2fc7e0e6768f"
   },
@@ -286,7 +303,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "645136f3ab9f2fc7e0e67690"
   },
@@ -302,7 +320,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "645136f3ab9f2fc7e0e67691"
   },
@@ -318,7 +337,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513898ab9f2fc7e0e67693"
   },
@@ -334,7 +354,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513898ab9f2fc7e0e67694"
   },
@@ -350,7 +371,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513898ab9f2fc7e0e67695"
   },
@@ -366,7 +388,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513898ab9f2fc7e0e67696"
   },
@@ -382,7 +405,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513898ab9f2fc7e0e67697"
   },
@@ -398,7 +422,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513898ab9f2fc7e0e67698"
   },
@@ -414,7 +439,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513898ab9f2fc7e0e67699"
   },
@@ -430,7 +456,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513898ab9f2fc7e0e6769a"
   },
@@ -446,7 +473,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513898ab9f2fc7e0e6769b"
   },
@@ -462,7 +490,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513898ab9f2fc7e0e6769c"
   },
@@ -478,7 +507,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513898ab9f2fc7e0e6769d"
   },
@@ -494,7 +524,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513956ab9f2fc7e0e6769f"
   },
@@ -510,7 +541,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513956ab9f2fc7e0e676a0"
   },
@@ -526,7 +558,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513956ab9f2fc7e0e676a1"
   },
@@ -542,7 +575,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513956ab9f2fc7e0e676a2"
   },
@@ -558,7 +592,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513956ab9f2fc7e0e676a3"
   },
@@ -574,7 +609,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513a59ab9f2fc7e0e676a5"
   },
@@ -590,7 +626,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513a59ab9f2fc7e0e676a6"
   },
@@ -606,7 +643,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513a59ab9f2fc7e0e676a7"
   },
@@ -622,7 +660,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513a59ab9f2fc7e0e676a8"
   },
@@ -638,7 +677,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513a59ab9f2fc7e0e676a9"
   },
@@ -654,7 +694,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513a59ab9f2fc7e0e676aa"
   },
@@ -670,7 +711,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513a59ab9f2fc7e0e676ab"
   },
@@ -686,7 +728,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513a59ab9f2fc7e0e676ac"
   },
@@ -702,7 +745,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513a59ab9f2fc7e0e676ad"
   },
@@ -718,7 +762,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513b6aab9f2fc7e0e676af"
   },
@@ -734,7 +779,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513b6aab9f2fc7e0e676b0"
   },
@@ -750,7 +796,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513b6aab9f2fc7e0e676b1"
   },
@@ -766,7 +813,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513b6aab9f2fc7e0e676b2"
   },
@@ -782,7 +830,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513b6aab9f2fc7e0e676b3"
   },
@@ -798,7 +847,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513b6aab9f2fc7e0e676b4"
   },
@@ -814,7 +864,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513b6aab9f2fc7e0e676b5"
   },
@@ -830,7 +881,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513b6aab9f2fc7e0e676b6"
   },
@@ -846,7 +898,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513da4ab9f2fc7e0e676b8"
   },
@@ -862,7 +915,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513da4ab9f2fc7e0e676b9"
   },
@@ -878,7 +932,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513da4ab9f2fc7e0e676ba"
   },
@@ -894,7 +949,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513da4ab9f2fc7e0e676bb"
   },
@@ -910,7 +966,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513da4ab9f2fc7e0e676bc"
   },
@@ -926,7 +983,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513da4ab9f2fc7e0e676bd"
   },
@@ -942,7 +1000,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513da4ab9f2fc7e0e676be"
   },
@@ -958,7 +1017,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513da4ab9f2fc7e0e676bf"
   },
@@ -974,7 +1034,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513da4ab9f2fc7e0e676c0"
   },
@@ -990,7 +1051,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513da4ab9f2fc7e0e676c1"
   },
@@ -1006,7 +1068,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513da4ab9f2fc7e0e676c2"
   },
@@ -1022,7 +1085,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513e2fab9f2fc7e0e676c6"
   },
@@ -1038,7 +1102,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513e2fab9f2fc7e0e676c7"
   },
@@ -1054,7 +1119,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513e2fab9f2fc7e0e676c8"
   },
@@ -1070,7 +1136,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513f10ab9f2fc7e0e676cc"
   },
@@ -1086,7 +1153,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513f10ab9f2fc7e0e676cd"
   },
@@ -1102,7 +1170,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513f10ab9f2fc7e0e676ce"
   },
@@ -1118,7 +1187,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513f10ab9f2fc7e0e676cf"
   },
@@ -1134,7 +1204,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513f10ab9f2fc7e0e676d0"
   },
@@ -1150,7 +1221,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513f10ab9f2fc7e0e676d1"
   },
@@ -1166,7 +1238,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513f10ab9f2fc7e0e676d2"
   },
@@ -1182,7 +1255,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513f10ab9f2fc7e0e676d3"
   },
@@ -1198,7 +1272,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513fc9ab9f2fc7e0e676d8"
   },
@@ -1214,7 +1289,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513fc9ab9f2fc7e0e676d9"
   },
@@ -1230,7 +1306,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513fc9ab9f2fc7e0e676da"
   },
@@ -1246,7 +1323,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513fc9ab9f2fc7e0e676db"
   },
@@ -1262,7 +1340,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513fc9ab9f2fc7e0e676dc"
   },
@@ -1278,7 +1357,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513fc9ab9f2fc7e0e676dd"
   },
@@ -1294,7 +1374,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513fc9ab9f2fc7e0e676de"
   },
@@ -1310,7 +1391,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64513fc9ab9f2fc7e0e676df"
   },
@@ -1326,7 +1408,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451419fab9f2fc7e0e676e1"
   },
@@ -1342,7 +1425,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451419fab9f2fc7e0e676e2"
   },
@@ -1358,7 +1442,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451419fab9f2fc7e0e676e3"
   },
@@ -1374,7 +1459,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451419fab9f2fc7e0e676e4"
   },
@@ -1390,7 +1476,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451419fab9f2fc7e0e676e5"
   },
@@ -1406,7 +1493,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451419fab9f2fc7e0e676e6"
   },
@@ -1422,7 +1510,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451419fab9f2fc7e0e676e7"
   },
@@ -1438,7 +1527,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451419fab9f2fc7e0e676e8"
   },
@@ -1454,7 +1544,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451419fab9f2fc7e0e676e9"
   },
@@ -1470,7 +1561,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451419fab9f2fc7e0e676ea"
   },
@@ -1486,7 +1578,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "6451419fab9f2fc7e0e676eb"
   },
@@ -1502,7 +1595,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64514227ab9f2fc7e0e676ef"
   },
@@ -1518,7 +1612,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64514227ab9f2fc7e0e676f0"
   },
@@ -1534,7 +1629,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64514227ab9f2fc7e0e676f1"
   },
@@ -1550,7 +1646,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64514227ab9f2fc7e0e676f2"
   },
@@ -1566,7 +1663,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64514227ab9f2fc7e0e676f3"
   },
@@ -1582,7 +1680,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64514227ab9f2fc7e0e676f4"
   },
@@ -1598,7 +1697,8 @@
     "clave": "DLD",
     "glosa": "Disponible local y delivery"
   }
-},{
+},
+{
   "_id": {
     "$oid": "64514227ab9f2fc7e0e676f5"
   },
@@ -1609,6 +1709,125 @@
   "tipo": {
     "clave": "BBC",
     "glosa": "Bebestibles calientes"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "64513396ab9f2fc7e0e6767f"
+  },
+  "nombre": "Sopa Hanoi",
+  "descripcion": "Pollo, algas, ají rojo, vinagre y huevo.",
+  "precio": 5200,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "64513396ab9f2fc7e0e67680"
+  },
+  "nombre": "Sopa Camarón",
+  "descripcion": "Camarones, cebolla, champiñones, algas y curry.",
+  "precio": 5000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "64513396ab9f2fc7e0e67681"
+  },
+  "nombre": "Sopa Pho con camarón",
+  "descripcion": "Tallarines PHO, diente de dragón, camarones y ají.",
+  "precio": 5000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "64513396ab9f2fc7e0e67682"
+  },
+  "nombre": "Sopa Pho con Carne o Pollo",
+  "descripcion": "Tallarines PHO, diente de dragón, carne o pollo y ají.",
+  "precio": 4800,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "64513396ab9f2fc7e0e67683"
+  },
+  "nombre": "Sopa PHO con Carne o Pollo (Familiar)",
+  "descripcion": "Tallarines PHO, diente de dragón, carne o pollo y ají.",
+  "precio": 14000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "SOPAS",
+    "glosa": "Sopas"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "646133c6f1d251c2dc27f4c7"
+  },
+  "nombre": "Caja",
+  "descripcion": "Cajas contenedoras.",
+  "precio": 200,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "OTROS",
+    "glosa": "Otros"
+  },
+  "estado": {
+    "clave": "DLD",
+    "glosa": "Disponible local y delivery"
+  }
+},
+{
+  "_id": {
+    "$oid": "64613429f1d251c2dc27f4cd"
+  },
+  "nombre": "Pollo a la plancha",
+  "descripcion": "Pollo a la plancha solo.",
+  "precio": 8000,
+  "popularidad": 4,
+  "tipo": {
+    "clave": "POLLOS",
+    "glosa": "Pollos"
   },
   "estado": {
     "clave": "DLD",
